@@ -1,0 +1,7 @@
+#build file
+-cp ../src
+-cp src
+-main unit_tests.slExtend.ExtendableCoreClass1
+-js bin/MethodExtend.js
+#-debug
+slExtend.SLFilter

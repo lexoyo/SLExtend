@@ -1,0 +1,7 @@
+#build file
+-cp ../src
+-cp src
+-main unit_tests.slExtend.ExtendableCoreClass1
+-swf9 bin/MethodExtend.swf
+#-debug
+slExtend.slFilter.SLFilter

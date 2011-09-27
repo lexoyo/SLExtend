@@ -1,0 +1,6 @@
+#build file
+-cp ../src
+-cp src
+-main unit_tests.slExtend.ExtendableCoreClass2
+-swf9 bin/ClassExtend.swf
+#-debug
